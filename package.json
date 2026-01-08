@@ -9,7 +9,8 @@
   "scripts": {
     "lint": "eslint src test",
     "test": "jest",
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
